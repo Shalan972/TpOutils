@@ -27,7 +27,7 @@ Q3 : - git add .
      - git commit -m "Test du hook ESLint"
 
 ### Partie 4
-Q1 : création du fichier :  .eslintrc.json
+Q1 : modification du fichier :  .eslint.config.mjs
 
 Q2 : ajout du lint dans script : "lint": "eslint ."
 
@@ -44,3 +44,9 @@ Q3 : - git add .
      - git push
 
 ### Partie 6
+Q1 : branche faite : git checkout -b feature/ajout-fonction
+
+Q2 :  - git add .
+      - git commit -m "Code non conforme"
+
+Q3 : 
