@@ -18,3 +18,8 @@ test().
 Partie 3
 Q1 :  npm done
 Q2 : 
+
+Partie 4
+
+Q3 : > tp-eslint-git@1.0.0 lint
+     > eslint .
